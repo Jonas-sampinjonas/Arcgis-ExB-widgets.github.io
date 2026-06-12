@@ -1,0 +1,13 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Road outline (dark border) -->
+  <path d="M2 16 Q7 10 19 3" stroke="black" stroke-width="6.5" stroke-linecap="round" fill="none"/>
+  <!-- Road surface (white fill) -->
+  <path d="M2 16 Q7 10 19 3" stroke="white" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <!-- Center dotted line (two-way) -->
+  <path d="M2 16 Q7 10 19 3" stroke="black" stroke-width="1" stroke-dasharray="2.5 2" stroke-linecap="round" fill="none"/>
+  <!-- Surface breakdown bar -->
+  <rect x="1" y="17.5" width="4.5" height="2.5" fill="black" rx="0.4"/>
+  <rect x="6" y="17.5" width="4.5" height="2.5" fill="black" opacity="0.55" rx="0.4"/>
+  <rect x="11" y="17.5" width="4" height="2.5" fill="black" opacity="0.3" rx="0.4"/>
+  <rect x="15.5" y="17.5" width="3.5" height="2.5" fill="black" opacity="0.12" rx="0.4"/>
+</svg>

@@ -1,0 +1,23 @@
+{
+  "name": "Route Surface Breakdown",
+  "type": "widget",
+  "version": "1.17.0",
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "exbVersion": "1.17.0",
+  "author": "Karolis",
+  "description": "",
+  "copyright": "",
+  "license": "",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 480,
+    "height": 320
+  },
+  "useDataSources": [],
+  "useMapWidgets": []
+}
